@@ -2,7 +2,7 @@
 
 Welcome to the **Amazon-Big-Mart-Sales-Prediction** repository! This project focuses on predicting sales for Big Mart stores using machine learning techniques. The application employs a machine learning model to forecast sales based on various features, providing valuable insights into retail performance.
 
-![Big Mart Sales Prediction]([https://github.com/user-attachments/assets/29a378c0-af55-4c95-ba38-ee921f131ca0](https://github.com/rahulhazra245/Big-Mart-Sales-Prediction-ML-Project/issues/1#issue-3231156658)
+![Big Mart Sales Prediction](https://github.com/rahulhazra245/Big-Mart-Sales-Prediction-ML-Project/issues/1#issue-3231156658)
 
 ## 📋 Contents
 
